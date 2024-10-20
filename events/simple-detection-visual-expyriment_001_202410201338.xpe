@@ -1,0 +1,78 @@
+#Expyriment 0.11.dev5 (Python 3.12.3), .xpe-file, coding: cp1252
+#date: Sun Oct 20 2024 13:38:43
+#sha1: 8ba026
+#modules: 
+#display: size=(800, 600), window_mode=False, opengl=2
+#os: uname_result(system='Windows', node='LAPTOP_Evann', release='11', version='10.0.22631', machine='AMD64')
+Time,Type,Event,Value,Detail,Detail2
+21923,design,log,
+#design: #exp: Visual Detection
+#design: #dvn: trial,wait,respkey,RT
+#design: block_cnt,block_id,trial_cnt,trial_id
+21923,design,logged,
+21923,Experiment,started
+21994,Stimulus,presented,2
+29152,Keyboard,received,13,wait
+29184,Stimulus,presented,1
+30887,Stimulus,presented,0
+31184,Keyboard,received,32,wait
+31216,Stimulus,presented,1
+32969,Stimulus,presented,0
+33248,Keyboard,received,32,wait
+33281,Stimulus,presented,1
+35271,Stimulus,presented,0
+35552,Keyboard,received,32,wait
+35587,Stimulus,presented,1
+37450,Stimulus,presented,0
+37733,Keyboard,received,32,wait
+37766,Stimulus,presented,1
+38896,Stimulus,presented,0
+39294,Keyboard,received,32,wait
+39324,Stimulus,presented,1
+41219,Stimulus,presented,0
+41463,Keyboard,received,32,wait
+41493,Stimulus,presented,1
+42899,Stimulus,presented,0
+43185,Keyboard,received,32,wait
+43216,Stimulus,presented,1
+45015,Stimulus,presented,0
+45134,Keyboard,received,32,wait
+45163,Stimulus,presented,1
+47037,Stimulus,presented,0
+47410,Keyboard,received,32,wait
+47443,Stimulus,presented,1
+49057,Stimulus,presented,0
+49334,Keyboard,received,32,wait
+49366,Stimulus,presented,1
+50604,Stimulus,presented,0
+50934,Keyboard,received,32,wait
+50964,Stimulus,presented,1
+52225,Stimulus,presented,0
+52480,Keyboard,received,32,wait
+52520,Stimulus,presented,1
+54276,Stimulus,presented,0
+54294,Keyboard,received,32,wait
+54322,Stimulus,presented,1
+56015,Stimulus,presented,0
+56087,Keyboard,received,32,wait
+56130,Stimulus,presented,1
+57933,Stimulus,presented,0
+57979,Keyboard,received,32,wait
+58028,Stimulus,presented,1
+59485,Stimulus,presented,0
+59772,Keyboard,received,32,wait
+59823,Stimulus,presented,1
+61213,Stimulus,presented,0
+61538,Keyboard,received,32,wait
+61592,Stimulus,presented,1
+62717,Stimulus,presented,0
+63095,Keyboard,received,32,wait
+63130,Stimulus,presented,1
+64308,Stimulus,presented,0
+64621,Keyboard,received,32,wait
+64670,Stimulus,presented,1
+66628,Stimulus,presented,0
+66944,Keyboard,received,32,wait
+66944,Experiment,ended
+66953,Data,saved
+66955,Stimulus,presented,5

@@ -1,3 +1,4 @@
+
 #! /usr/bin/env python
 # Time-stamp: <2021-11-16 15:36:47 christophe@pallier.org>
 """ This is a simple reaction-time experiment.
